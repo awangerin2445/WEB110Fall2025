@@ -1,8 +1,6 @@
-/*
-  Name: Adrian Wangerin
+/* Name: Adrian Wangerin
   Date: 2025-11-16
-  Purpose: Stylesheet for mock professional photography website (final project)
-*/
+  Stylesheet for mock professional photography website (final project)*/
 
 /* This overwrites the defaul box spacing */
 * {
@@ -282,4 +280,5 @@ select:focus,
 textarea:focus {
   outline: 2px solid #F1C40F;
   outline-offset: 2px;
+
 }
